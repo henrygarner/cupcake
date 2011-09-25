@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Cupcake::VERSION
   s.authors     = ["Henry Garner"]
   s.email       = ["henry.garner@mac.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/henrygarner/cupcake"
   s.summary     = %q{Script the MakerBot 3D Printer}
   s.description = %q{}
 
